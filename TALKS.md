@@ -106,3 +106,9 @@ Conference: ConfrontJS
 Link: [https://2019.confrontjs.com/speakers](https://2019.confrontjs.com/speakers)
 
 Video: TBD
+### TD(M)A
+Conference: Because Performance Matters
+
+Link: [https://www.meetup.com/JavaScript-Israel/events/266914846/](https://www.meetup.com/JavaScript-Israel/events/266914846/)
+
+VIdeo: [https://youtu.be/MZ7NeFSjH3k](https://youtu.be/MZ7NeFSjH3k)
