@@ -106,7 +106,7 @@ Conference: ConfrontJS
 Link: [https://2019.confrontjs.com/speakers](https://2019.confrontjs.com/speakers)
 
 Video: TBD
-### TD(M)A
+### Optimization Design Patterns in JS
 Conference: Because Performance Matters
 
 Link: [https://www.meetup.com/JavaScript-Israel/events/266914846/](https://www.meetup.com/JavaScript-Israel/events/266914846/)
