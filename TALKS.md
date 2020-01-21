@@ -105,7 +105,7 @@ Conference: ConfrontJS
 
 Link: [https://2019.confrontjs.com/speakers](https://2019.confrontjs.com/speakers)
 
-Video: TBD
+Video: [https://youtu.be/gLj-p7gHwj8](https://youtu.be/gLj-p7gHwj8)
 ### Optimization Design Patterns in JS
 Conference: Because Performance Matters
 
