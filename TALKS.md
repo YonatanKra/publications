@@ -111,4 +111,4 @@ Conference: Because Performance Matters
 
 Link: [https://www.meetup.com/JavaScript-Israel/events/266914846/](https://www.meetup.com/JavaScript-Israel/events/266914846/)
 
-VIdeo: [https://youtu.be/MZ7NeFSjH3k](https://youtu.be/MZ7NeFSjH3k)
+VIdeo: [https://www.youtube.com/watch?v=sGJtMnY5PtA](https://www.youtube.com/watch?v=sGJtMnY5PtA)(Hebrew)
