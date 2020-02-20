@@ -111,4 +111,12 @@ Conference: Because Performance Matters
 
 Link: [https://www.meetup.com/JavaScript-Israel/events/266914846/](https://www.meetup.com/JavaScript-Israel/events/266914846/)
 
-VIdeo: [https://www.youtube.com/watch?v=sGJtMnY5PtA](https://www.youtube.com/watch?v=sGJtMnY5PtA)(Hebrew)
+Video: [https://www.youtube.com/watch?v=sGJtMnY5PtA](https://www.youtube.com/watch?v=sGJtMnY5PtA)(Hebrew)
+
+### Optimization design patterns - from games to web
+Conference: JSBangkok 1.0.0
+
+Link: [https://javascriptbangkok.com/](https://javascriptbangkok.com/)
+
+Video: TBD
+
