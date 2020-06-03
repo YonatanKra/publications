@@ -17,6 +17,14 @@
 
 [https://egghead.io/lessons/chrome-devtools-see-the-critical-rendering-path-in-the-browser](https://egghead.io/lessons/chrome-devtools-see-the-critical-rendering-path-in-the-browser?af=gejn7i)
 
+[https://egghead.io/lessons/javascript-layout-reflow-in-the-browser](https://egghead.io/lessons/javascript-layout-reflow-in-the-browser?af=gejn7i)
+
+[https://egghead.io/lessons/javascript-solving-layout-reflow](https://egghead.io/lessons/javascript-solving-layout-reflow?af=gejn7i)
+
+[https://egghead.io/lessons/javascript-solving-layout-thrashing-by-caching-measured-value](https://egghead.io/lessons/javascript-solving-layout-thrashing-by-caching-measured-value?af=gejn7i)
+
+[https://egghead.io/lessons/javascript-solving-layout-thrashing-with-debounce](https://egghead.io/lessons/javascript-solving-layout-thrashing-with-debounce?af=gejn7i)
+
 ## Web components
 
 [https://egghead.io/lessons/javascript-render-hello-world-text-with-custom-elements](https://egghead.io/lessons/javascript-render-hello-world-text-with-custom-elements?af=gejn7i)
