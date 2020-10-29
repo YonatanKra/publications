@@ -120,3 +120,9 @@ Link: [https://javascriptbangkok.com/](https://javascriptbangkok.com/)
 
 Video: TBD
 
+### The Event Loop and Your Code
+Conference: WarsawJS
+
+Link: [https://warsawjs.com/meetups/71](https://warsawjs.com/meetups/71)
+
+Video: [https://www.youtube.com/watch?v=Nqx3rtv_dko](https://www.youtube.com/watch?v=Nqx3rtv_dko)
